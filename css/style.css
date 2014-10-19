@@ -1,0 +1,12 @@
+body{
+	font-family: Lucida;
+
+a:link {color:#000000;}   
+a:visited {color:#CCCCCC;} 
+a:hover {color:#CCCCCC;}   
+a:active {color:#000000;}   
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:underline;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
