@@ -25,6 +25,8 @@ p: {color: #000000;}
 }
 
 #links{
+	position: relative;
+	margin-top: 5%;
 	padding: 1%;
 	display: inline;
 	}
