@@ -9,7 +9,7 @@ a:hover {color:#CCCCCC;}
 a:active {color:#C2C2C2;}   
 
 a:link {text-decoration:none;}
-a:visited {text-decoration:underline;}
+a:visited {text-decoration:none;}
 a:hover {text-decoration:none;}
 a:active {text-decoration:none;}
 
@@ -17,15 +17,14 @@ p: {color: #000000;}
 
 #nav{
 	width: 100%;
-	position: inline;
 	}
 	
 #logo{
+	position: center;
 	padding: 1%;
-	width: 10%;
 }
 
 #links{
 	padding: 1%;
-	position: inline;
+	display: inline;
 	}
