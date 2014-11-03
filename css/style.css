@@ -57,8 +57,17 @@ img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
 	}
 	
 #mc-field-group{
+	text-align: center;
 	font-family: Timeless;
-	}s
+	}
+	
+#mc_embed_signup_scroll{
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
