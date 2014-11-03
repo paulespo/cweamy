@@ -17,6 +17,7 @@ p: {color: #000000;}
 
 #nav{
 	width: 100%;
+	display: block;
 	}
 	
 #logo{
