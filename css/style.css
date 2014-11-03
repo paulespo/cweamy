@@ -72,4 +72,10 @@ img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	-webkit-margin-before: .5em;
+	-webkit-margin-after: .5em;
 	}
+	
+input[type=email] {
+    width: 10em;  height: 2em;
+}
