@@ -1,3 +1,13 @@
+html {
+  font-size: 20px;
+}
+@media (max-width: 900px) {
+  html { font-size: 15px; }
+}
+@media (max-width: 400px) {
+  html { font-size: 13px; }
+}
+
 body{
 	font-family: Timeless, Lucida;
 	src: url("../fonts/Timeless.ttf")
@@ -15,7 +25,8 @@ a:active {text-decoration:none;}
 
 p: {color: #000000;}
 
-a: {padding: 10%;}
+a: {padding: 10%;
+	}
 
 img {
     max-width: 100%;
