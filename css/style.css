@@ -4,9 +4,9 @@ body{
 	}
 
 a:link {color:#000000;}   
-a:visited {color:#CCCCCC;} 
-a:hover {color:#;}   
-a:active {color:#000000;}   
+a:visited {color:#000000;} 
+a:hover {color:#CCCCCC;}   
+a:active {color:#C2C2C2;}   
 
 a:link {text-decoration:none;}
 a:visited {text-decoration:underline;}
