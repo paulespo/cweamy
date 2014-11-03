@@ -9,7 +9,7 @@ html {
 }
 
 body{
-	font-family: Timeless, Lucida;
+	font-family: Timeless, Tahoma;
 	src: url("../fonts/Timeless.ttf")
 	}
 
@@ -52,3 +52,10 @@ img {
 	padding-top: 1%;
 	}
 
+#mc_embed_signup{
+	font-family: Timeless;
+	}
+	
+#mc-field-group{
+	font-family: Timeless;
+	}s
