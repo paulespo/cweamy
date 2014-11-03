@@ -54,6 +54,9 @@ img {
 
 #mc_embed_signup{
 	font-family: Timeless;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	}
 	
 #mc-field-group{
