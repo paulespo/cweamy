@@ -21,7 +21,7 @@ p: {color: #000000;}
 	}
 	
 #logo{
-	position: center;
+	position: absolute;
 	padding: 1%;
 }
 
