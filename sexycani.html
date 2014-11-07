@@ -7,43 +7,18 @@
 	  <link rel="stylesheet" href="responsiveslides.css">
 	<link rel="stylesheet" type="text/css" href='css/style.css'>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-	<script src="../js/responsiveslides.min.js"></script>
+	<script src="responsiveslides.min.js"></script>
 	
-  <script>
-    $(function () {
-
-      // Slideshow 1
-      $("#slider1").responsiveSlides({
-        auto: false,
-        pager: true,
-        nav: true,
-        speed: 500,
-        maxwidth: 800,
-        namespace: "centered-btns"
-      });
-
-      // Slideshow 2
-      $("#slider2").responsiveSlides({
-        auto: false,
-        pager: true,
-        nav: true,
-        speed: 500,
-        maxwidth: 800,
-        namespace: "transparent-btns"
-      });
-
-      // Slideshow 3
-      $("#slider3").responsiveSlides({
-        auto: false,
-        pager: false,
-        nav: true,
-        speed: 500,
-        maxwidth: 800,
-        namespace: "large-btns"
-      });
-
+<script>
+  $(function() {
+    $(".rslides").responsiveSlides({
+       auto: true,   
+       pager: false,
+       nav;false
     });
-  </script>
+  });
+</script>
+
 </head>
 
 <body>
@@ -57,32 +32,27 @@
 		<a href="subscribe.html">subscribe</a>
 	</div>
 	
-	<div class="rslides_container">
-      <ul class="rslides transparent-btns transparent-btns2" id="slider2" style="max-width: 800px;">
-        <li id="transparent-btns2_s0" class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; -webkit-transition: opacity 500ms ease-in-out; transition: opacity 500ms ease-in-out;"><img src="../1.jpg" alt=""></li>
-        <li id="transparent-btns2_s1" class="" style="float: none; position: absolute; opacity: 0; z-index: 1; display: list-item; -webkit-transition: opacity 500ms ease-in-out; transition: opacity 500ms ease-in-out;"><img src="../2.jpg" alt=""></li>
-        <li id="transparent-btns2_s2" class="transparent-btns2_on" style="float: left; position: relative; opacity: 1; z-index: 2; display: list-item; -webkit-transition: opacity 500ms ease-in-out; transition: opacity 500ms ease-in-out;"><img src="../3.jpg" alt=""></li>
-      </ul><a href="#" class="transparent-btns_nav transparent-btns2_nav prev">Previous</a><a href="#" class="transparent-btns_nav transparent-btns2_nav next">Next</a><ul class="transparent-btns_tabs transparent-btns2_tabs"><li class="transparent-btns2_s1"><a href="#" class="transparent-btns2_s1">1</a></li><li class="transparent-btns2_s2"><a href="#" class="transparent-btns2_s2">2</a></li><li class="transparent-btns2_s3 transparent-btns_here"><a href="#" class="transparent-btns2_s3">3</a></li></ul>
+
     </div>
-	   <div class="rslides_container">
-      <ul class="rslides" id="slider2">
-        <li><img src="../Images/sexi/jen1.jpg" alt=""></li>
-        <li><img src="../Images/sexi/jen2.jpg" alt=""></li>
-        <li><img src="../Images/sexi/jen3.jpg" alt=""></li>
-        <li><img src="../Images/sexi/wall1.jpg" alt=""></li>
-        <li><img src="../Images/sexi/wall2.jpg" alt=""></li>
-        <li><img src="../Images/sexi/table1.jpg" alt=""></li>
-        <li><img src="../Images/sexi/table2.jpg" alt=""></li>
-        <li><img src="../Images/sexi/kelly1.jpg" alt=""></li>
-        <li><img src="../Images/sexi/kelly2.jpg" alt=""></li>
-        <li><img src="../Images/sexi/kelly3.jpg" alt=""></li>
-        <li><img src="../Images/sexi/jesse1.jpg" alt=""></li>
-        <li><img src="../Images/sexi/blk1.jpg" alt=""></li>
-        <li><img src="../Images/sexi/blk2.jpg" alt=""></li>
-        <li><img src="../Images/sexi/table1.jpg" alt=""></li>
-        <li><img src="../Images/sexi/table2.jpg" alt=""></li>
+	 <div class="rslides_container">
+      <ul class="rslides">
+        <li><img src="Images/sexi/jen1.jpg" alt=""></li>
+        <li><img src="Images/sexi/jen2.jpg" alt=""></li>
+        <li><img src="Images/sexi/jen3.jpg" alt=""></li>
+        <li><img src="Images/sexi/wall1.jpg" alt=""></li>
+        <li><img src="Images/sexi/wall2.jpg" alt=""></li>
+        <li><img src="Images/sexi/table1.jpg" alt=""></li>
+        <li><img src="Images/sexi/table2.jpg" alt=""></li>
+        <li><img src="Images/sexi/kelly1.jpg" alt=""></li>
+        <li><img src="Images/sexi/kelly2.jpg" alt=""></li>
+        <li><img src="Images/sexi/kelly3.jpg" alt=""></li>
+        <li><img src="Images/sexi/jesse1.jpg" alt=""></li>
+        <li><img src="Images/sexi/blk1.jpg" alt=""></li>
+        <li><img src="Images/sexi/blk2.jpg" alt=""></li>
+        <li><img src="Images/sexi/table1.jpg" alt=""></li>
+        <li><img src="Images/sexi/table2.jpg" alt=""></li>
       </ul>
-    </div>
+     </div>
 
 
 </body>
