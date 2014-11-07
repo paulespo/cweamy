@@ -28,7 +28,7 @@ a:active {text-decoration:none;}
 p: {
 	color: #000000;
 	text-align: center;
-	margin: 0;
+	-webkit-margin: 0;
 	}
 
 a: {
