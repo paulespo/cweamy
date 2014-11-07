@@ -1,5 +1,5 @@
 html {
-  font-size: 18px;
+  font-size: 20px;
 }
 @media (max-width: 900px) {
   html { font-size: 20px; }
@@ -7,6 +7,7 @@ html {
 @media (max-width: 400px) {
   html { font-size: 20px; }
   #logo img {width: 300px; height: 83px;}
+  #exhibit img{width: 300px; height:300px;}
 }
 
 body{
