@@ -85,6 +85,7 @@ img {
 #exhibit{
 	display: block;
 	text-align: center;
+	margin: 0;
 	}
 	
 #wrapper {
