@@ -87,7 +87,7 @@ img {
 	}
 	
 
-.rslides_container {
+.rslides {
   position: relative;
   list-style: none;
   overflow: hidden;
@@ -96,7 +96,7 @@ img {
   margin: 0;
   }
 
-.rslides_container li {
+.rslides li {
   -webkit-backface-visibility: hidden;
   position: absolute;
   display: none;
@@ -105,13 +105,13 @@ img {
   top: 0;
   }
 
-.rslides_container li:first-child {
+.rslides li:first-child {
   position: relative;
   display: block;
   float: left;
   }
 
-.rslides_container img {
+.rslides img {
   display: block;
   height: auto;
   float: left;
