@@ -2,11 +2,11 @@ html {
   font-size: 16px;
 }
 @media (max-width: 900px) {
-  html { font-size: 18px; }
+  html { font-size: 17px; }
 }
 
 @media (max-width: 400px) {
-  html { font-size: 19px; }
+  html { font-size: 17px; }
   #logo img {width: 300px; height: 83px;}
   #exhibit img{width: 300px; height:300px;}
 }
