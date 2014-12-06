@@ -12,8 +12,7 @@ html {
 }
 
 body{
-	font-family: Lora, Arial;
-	src: url("http://fonts.googleapis.com/css?family=Lora")
+	font-family: Arial;
 	}
 
 a:link {color:#000000;}   
@@ -53,7 +52,7 @@ img {
 
 #links{
 	text-align: center;
-	padding-bottom: 2%;
+	padding-bottom: 3%;
 	}
 	
 span{
