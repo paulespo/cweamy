@@ -58,7 +58,10 @@ img {
 span{
 	font-size: 11px;
 	}
-	
+#essay{
+	text-align: center;
+	}	
+
 #cover{
 	display: block;
     margin-left: auto;
