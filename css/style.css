@@ -12,7 +12,7 @@ html {
 }
 
 body{
-	font-family: Lora, Tahoma;
+	font-family: Lora, Arial;
 	src: url("http://fonts.googleapis.com/css?family=Lora")
 	}
 
@@ -53,8 +53,9 @@ img {
 
 #links{
 	text-align: center;
-	padding-bottom: 1%;
+	padding-bottom: 2%;
 	}
+	
 span{
 	font-size: 11px;
 	}
