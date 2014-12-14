@@ -83,6 +83,7 @@ span{
 	padding-bottom: 1%;
 	max-height: 90%;
 	max-width: 90%;
+	margin: auto;
 	}
 	
 #archive1{
@@ -91,6 +92,7 @@ span{
 	padding-bottom: 2%;
 	max-height: 90%;
 	max-width: 90%;
+	margin: auto;
 	}
 	
 #archive2{
@@ -99,6 +101,7 @@ span{
 	padding-top: 2%;
 	max-height: 90%;
 	max-width: 90%;
+	margin: auto;
 	}
 
 #archivetext{
