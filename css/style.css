@@ -252,6 +252,7 @@ a {
 .large-btns_tabs {
   margin-top: 10px;
   text-align: center;
+  padding: auto;
   }
 
 .centered-btns_tabs li,
