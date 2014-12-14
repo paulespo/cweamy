@@ -96,8 +96,10 @@ span{
 	display: block;
 	text-align: center;
 	padding-bottom: 2%;
-	max-height: 50%;
-	max-width: 50%;
+	height: 50%;
+	width: 50%;
+	max-height: 90%;
+	max-width: 90%;
 	margin: auto;
 	}
 	
@@ -105,8 +107,10 @@ span{
 	display: block;
 	text-align: center;
 	padding-top: 2%;
-	max-height: 50%;
-	max-width: 50%;
+	height: 50%;
+	width: 50%;
+	max-height: 90%;
+	max-width: 90%;
 	margin: auto;
 	}
 
