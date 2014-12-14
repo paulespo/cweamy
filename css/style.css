@@ -92,12 +92,17 @@ span{
 	text-align: center;
 	}
 
-#archive{
+#archive1{
 	display: block;
 	text-align: center;
 	padding-bottom: 2%;
 	}
 	
+#archive2{
+	display: block;
+	text-align: center;
+	padding-top: 2%;
+	}
 	
 /*  exhibitions columns  */
 
