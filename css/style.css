@@ -11,21 +11,6 @@ html {
   #exhibit img{width: 300px; height:300px;}
 }
 
-@media (max-width: 750px) {
-	.col { 
-		margin: 1% 0 1% 0%;
-	}
-}
-
-@media (max-width: 750px) {
-	.span_2_of_2 {
-		width: 100%; 
-	}
-	.span_1_of_2 {
-		width: 100%;
-	}
-}
-
 
 body{
 	font-family: Arial;
