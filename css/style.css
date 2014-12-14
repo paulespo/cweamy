@@ -87,6 +87,18 @@ span{
 	padding-top: 1%;
 	}
 
+#upcoming{
+	display: block;
+	text-align: center;
+	}
+
+#archive{
+	display: block;
+	text-align: center;
+	padding-bottom: 2%;
+	}
+	
+	
 /*  exhibitions columns  */
 
 .section {
@@ -153,10 +165,6 @@ span{
 	
 /*  exhibit slides  */
 	
-#exhibit{
-	display: block;
-	text-align: center;
-	}
 	
 #wrapper {
   float: left;
