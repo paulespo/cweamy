@@ -90,8 +90,8 @@ span{
 	display: block;
 	text-align: center;
 	padding-bottom: 2%;
-	max-height: 90%;
-	max-width: 90%;
+	max-height: 50%;
+	max-width: 50%;
 	margin: auto;
 	}
 	
@@ -99,8 +99,8 @@ span{
 	display: block;
 	text-align: center;
 	padding-top: 2%;
-	max-height: 90%;
-	max-width: 90%;
+	max-height: 50%;
+	max-width: 50%;
 	margin: auto;
 	}
 
