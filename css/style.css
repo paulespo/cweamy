@@ -252,7 +252,8 @@ a {
 .large-btns_tabs {
   margin-top: 10px;
   text-align: center;
-  padding: auto;
+  padding-left:0px;
+  -webkit-padding-start: 0px;
   }
 
 .centered-btns_tabs li,
