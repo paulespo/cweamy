@@ -1,5 +1,5 @@
 html {
-  font-size: 12px;
+  font-size: 10px;
 }
 @media (max-width: 900px) {
   html { font-size: 17px; }
