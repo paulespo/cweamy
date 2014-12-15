@@ -116,16 +116,15 @@ span{
 	text-align: center;
 	padding-top: 2%;
 	padding-bottom: 2%;
-	height: 49%;
-	width: 49%;
-	max-height: 90%;
-	max-width: 90%;
+	max-height: 50%;
+	max-width: 50%;
 	margin: auto;
 	}
 
 #archivetext{
 	display: block;
 	text-align: center;
+	padding-bottom: 3%;
 	}
 
 /*  mailchimp subscribe  */
