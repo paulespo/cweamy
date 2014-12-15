@@ -78,23 +78,36 @@ span{
 	padding-bottom: 2.5%;
 	}
 
-#upcoming{
+#upcoming1{
 	display: block;
 	text-align: center;
 	padding-bottom: 2%;
-	max-height: 90%;
-	max-width: 90%;
+	max-height: 50%;
+	max-width: 50%;
 	margin: auto;
+	}
+	
+#upcoming2{
+	display: block;
+	text-align: center;
+	padding-bottom: 2%;
+	max-height: 50%;
+	max-width: 50%;
+	margin: auto;
+	}
+
+#upcomingtext{
+	display: block;
+	text-align: center;
+	padding-bottom: 3%;
 	}
 	
 #archive1{
 	display: block;
 	text-align: center;
 	padding-bottom: 2%;
-	height: 49%;
-	width: 49%;
-	max-height: 90%;
-	max-width: 90%;
+	max-height: 50%;
+	max-width: 50%;
 	margin: auto;
 	}
 	
