@@ -73,6 +73,10 @@ span{
 	text-align: center;
 	}	
 
+#smalltext{
+	font-size: 80%;
+	}
+
 #cover{
 	display: block;
     margin-left: auto;
