@@ -29,12 +29,14 @@ a:active {text-decoration:none;}
 
 a: {
 	padding: 10%;
+	font-size: 13px;
 	}
 
 p: {
 	color: #000000;
 	text-align: center;
 	-webkit-margin: 0;
+	font-size: 15;
 	}
 
 
