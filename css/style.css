@@ -70,11 +70,11 @@ span{
 	}
 #essaycontainer{
 	margin: auto;
+	max-width: 900px;
 	}
 	
 #essay{
 	text-align: left;
-	max-width: 900px;
 	}	
 
 #smalltext{
