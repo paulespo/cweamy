@@ -79,6 +79,15 @@ span{
 	text-align: left;
 	}	
 
+#artlistcontainer{
+	margin: auto;
+	max-width: 750px;
+	}
+	
+#artlist{
+	text-align: left;
+	}	
+
 #smalltext{
 	font-size: 80%;
 	}
