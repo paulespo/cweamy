@@ -9,7 +9,7 @@ html {
 @media (max-width: 500px) {
   html { font-size: 15px; }
   #logo img {width: 300px; height: 83px;}
-  .caption {font-size: 7px;}
+  .caption {font-size: 6px;}
    #essaycontainer{max-width: 80%;}
 }
 
@@ -80,7 +80,7 @@ span{
 	display: block;
     margin-left: auto;
     margin-right: auto;
-	max-width: 700px;
+	max-width: 650px;
 	padding-top: 1%;
 	}
 
