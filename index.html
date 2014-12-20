@@ -32,13 +32,13 @@
 
 <script>
     $("document").ready(function() {
-   var texts = ["based in Chicago", "a curatorial collective"];
+   var texts = ["a curatorial collective based in Chicago", "a curatorial collective based in Chicago"];
    var i = 0;
     (function runIt() {
       i++;
-      $('#original').fadeOut(2000, function(){
+      $('#original').fadeOut(1000, function(){
         $('#original').html(texts[i % texts.length]);
-        $('#original').fadeIn(2000, function(){
+        $('#original').fadeIn(6000, function(){
           runIt()
         });
       });
