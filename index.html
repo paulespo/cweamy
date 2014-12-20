@@ -25,25 +25,8 @@
 	</div>
 
 	<p>
-	<span id='original'>a curatorial collective based in Chicago</span>
+	<div id="tag">a curatorial collective based in Chicago</div>
 	</p>
 </body>
-
-
-<script>
-    $("document").ready(function() {
-   var texts = ["a curatorial collective based in Chicago", "a curatorial collective based in Chicago"];
-   var i = 0;
-    (function runIt() {
-      i++;
-      $('#original').fadeOut(6000, function(){
-        $('#original').html(texts[i % texts.length]);
-        $('#original').fadeIn(300, function(){
-          runIt()
-        });
-      });
-    }());
-    });
-</script>
 
 </html>
