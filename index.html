@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href='css/style.css'>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link href='http://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
     
 </head>
 
@@ -24,30 +24,26 @@
 		<img src="../Images/thcover.jpg">
 	</div>
 
-
-	<p class="quotes">a curatorial collective</p>
-	<p class="quotes">based in Chicago</p>
-
+	<p>
+	<span id='original'>a curatorial collective based in Chicago</span>
+	</p>
 </body>
 
 
 <script>
-(function() {
-
-    var quotes = $(".quotes");
-    var quoteIndex = -1;
-
-    function showNextQuote() {
-        ++quoteIndex;
-        quotes.eq(quoteIndex % quotes.length)
-            .fadeIn(2000)
-            .delay(700)
-            .fadeOut(2000, showNextQuote);
-    }
-
-    showNextQuote();
-
-})();​
+    $("document").ready(function() {
+   var texts = ["first", "second"];
+   var i = 0;
+    (function runIt() {
+      i++;
+      $('#original').fadeOut('slow', function(){
+        $('#original').html(texts[i % texts.length]);
+        $('#original').fadeIn('slow', function(){
+          runIt()
+        });
+      });
+    }());
+    });
 </script>
 
 </html>
