@@ -36,9 +36,9 @@
    var i = 0;
     (function runIt() {
       i++;
-      $('#original').fadeOut('slow', function(){
+      $('#original').fadeOut(2000, function(){
         $('#original').html(texts[i % texts.length]);
-        $('#original').fadeIn('slow', function(){
+        $('#original').fadeIn(2000, function(){
           runIt()
         });
       });
