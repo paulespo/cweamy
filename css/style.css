@@ -59,6 +59,16 @@ img {
   	text-align: center;
 }
 
+#logo img {
+    opacity: 0.85;
+    filter: alpha(opacity=85);
+}
+
+#logo img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
 #links{
 	text-align: center;
 	padding-bottom: 2%;
