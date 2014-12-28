@@ -181,6 +181,16 @@ img {
 	padding-bottom: 3%;
 	}
 
+#mossyimg{
+	margin: auto;
+	padding-bottom: 3%;
+	text-align: center;
+	}
+
+#mossytitle{
+	text-align: center;
+}	
+
 /*  mailchimp subscribe  */
 
 #mc_embed_signup{
