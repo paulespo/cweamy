@@ -11,6 +11,7 @@ html {
   #logo img {width: 250px;}
   .caption {font-size: 6px;}
    #essaycontainer{max-width: 80%;}
+   #essaycontainermoss{max-width: 80%;}
 }
 
 
@@ -105,6 +106,11 @@ img {
 #essaycontainer{
 	margin: auto;
 	max-width: 750px;
+	}
+
+#essaycontainermoss{
+	margin: auto;
+	max-width: 500px;
 	}
 	
 #essay{
