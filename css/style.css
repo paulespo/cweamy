@@ -8,7 +8,7 @@ html {
 
 @media (max-width: 500px) {
   html { font-size: 15px; }
-  #logo img {width: 300px; height: 83px;}
+  #logo img {width: 250px;}
   .caption {font-size: 6px;}
    #essaycontainer{max-width: 80%;}
 }
