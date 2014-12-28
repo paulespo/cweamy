@@ -226,6 +226,8 @@ img {
 #exhibittitle p{
 	text-align: center;
 	font-size: 20px;
+	margin-bottom: 1%;
+	margin-top: 1%;
 }	
 
 /*  mailchimp subscribe  */
