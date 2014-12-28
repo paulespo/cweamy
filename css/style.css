@@ -187,8 +187,9 @@ img {
 	text-align: center;
 	}
 
-#mossytitle{
+#mossytitle p{
 	text-align: center;
+	font-size: 20px;
 }	
 
 /*  mailchimp subscribe  */
