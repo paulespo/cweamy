@@ -210,7 +210,11 @@ img {
 	}
 	
 /*  exhibit slides  */
-	
+
+#photocredit {
+	opacity: 0.7;
+	text-align: right;
+	}	
 	
 #wrapper {
   float: left;
