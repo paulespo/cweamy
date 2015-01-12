@@ -160,8 +160,17 @@ img {
     opacity: 0.70;
     filter: alpha(opacity=70);
 	}
-	
+
 #upcoming2{
+		display: block;
+	text-align: center;
+	padding-bottom: 2%;
+	max-height: 60%;
+	max-width: 60%;
+	margin: auto;
+	}
+	
+#upcoming3{
 	display: block;
 	text-align: center;
 	padding-top: 2%;
