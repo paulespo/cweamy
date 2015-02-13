@@ -260,22 +260,19 @@ img {
 #tushhead img{	
     border-style: solid;
     border-color: grey;
-    border-width: .5px;
+    border-width: 1px;
     }
 
 #essaycontainertush{	
     margin: auto;
 	padding-bottom: 3%;
 	text-align: center;
-    border-style: solid;
-    border-color: grey;
-    border-width: .5px;
     }
 
 #essaycontainertush img{
     border-style: solid;
-    border-color: grey;
-    border-width: .5px;
+    border-color: #B5B5B5;
+    border-width: 1px;
     }
 
 #mossyimg{
