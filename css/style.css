@@ -258,8 +258,8 @@ img {
     }
 
 #tushhead img{	
-    border-style: solid;
-    border-color: grey;
+    border-style: outset;
+    border-color: #B5B5B5;
     border-width: 1px;
     }
 
@@ -270,7 +270,7 @@ img {
     }
 
 #essaycontainertush img{
-    border-style: solid;
+    border-style: outset;
     border-color: #B5B5B5;
     border-width: 1px;
     }
