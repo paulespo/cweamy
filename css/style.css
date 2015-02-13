@@ -255,11 +255,17 @@ img {
     margin: auto;
 	padding-bottom: 3%;
 	text-align: center;
+    border-style: solid;
+    border-color: grey;
+    border-width: .5px;
     }
 #essaycontainertush{	
     margin: auto;
 	padding-bottom: 3%;
 	text-align: center;
+    border-style: solid;
+    border-color: grey;
+    border-width: .5px;
     }
 
 #mossyimg{
