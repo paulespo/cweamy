@@ -167,18 +167,8 @@ img {
     opacity: 0.70;
     filter: alpha(opacity=70);
 	}
-
-#upcoming2{
-		display: block;
-	text-align: center;
-	padding-bottom: 2%;
-	padding-top: 2%;
-	max-height: 50%;
-	max-width: 50%;
-	margin: auto;
-	}
 	
-#upcoming3{
+#upcoming2{
 	display: block;
 	text-align: center;
 	padding-top: 2%;
@@ -216,6 +206,25 @@ img {
 #archive2{
 	display: block;
 	text-align: center;
+	padding-bottom: 2%;
+	max-height: 50%;
+	max-width: 50%;
+	margin: auto;
+	}
+	
+#archive2 img {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+	}
+
+#archive2 img:hover {
+    opacity: 0.70;
+    filter: alpha(opacity=70);
+	}
+
+#archive3{
+	display: block;
+	text-align: center;
 	padding-top: 2%;
 	padding-bottom: 2%;
 	max-height: 50%;
@@ -223,12 +232,12 @@ img {
 	margin: auto;
 	}
 
-#archive2 img {
+#archive3 img {
     opacity: 1.0;
     filter: alpha(opacity=100);
 	}
 
-#archive2 img:hover {
+#archive3 img:hover {
     opacity: 0.70;
     filter: alpha(opacity=70);
 	}
