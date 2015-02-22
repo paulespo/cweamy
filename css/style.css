@@ -108,7 +108,13 @@ img {
 
 /*  exhibitions  */	
 	
-#linksmoss{
+#linksmossL{
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+}
+
+#linksmossR{
     text-align: center;
     max-width: 500px;
     margin: auto;
