@@ -110,6 +110,7 @@ img {
 	
 #linksmoss{
     display:inline;
+    max-width: 500px;
 }
 
 #essaycontainer{
