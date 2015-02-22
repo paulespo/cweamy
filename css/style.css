@@ -137,6 +137,11 @@ img {
 	font-size: 80%;
 	}
 	
+#buttext{
+    color:#D17FA7;
+    font-weight: 600
+}
+
 #title{
 	display: block;
 	text-align: center;
