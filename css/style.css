@@ -282,6 +282,12 @@ img {
 	margin-top: 0%;
 }	
 
+#sunphoto {
+    margin: auto;
+	padding-bottom: 3%;
+	text-align: center;
+}
+
 /*  mailchimp subscribe  */
 
 #mc_embed_signup{
