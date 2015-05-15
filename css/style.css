@@ -318,11 +318,11 @@ img {
 	
 /*  exhibit slides  */
 #grant {
-	opacity: 0.7;
-	text-align: center;
+	text-align: left;
 	}
 #grant img {
 	width: 100;
+	text-align:; left;
 	}
 #photocredit {
 	opacity: 0.7;
