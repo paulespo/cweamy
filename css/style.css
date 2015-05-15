@@ -321,7 +321,9 @@ img {
 	opacity: 0.7;
 	text-align: center;
 	}
-
+#grant img {
+	width: 100;
+	}
 #photocredit {
 	opacity: 0.7;
 	text-align: right;
