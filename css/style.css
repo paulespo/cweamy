@@ -319,6 +319,7 @@ img {
 /*  exhibit slides  */
 #grant {
 	text-align: left;
+	font-size:10px;
 	}
 #grant img {
 	max-width: 100px;
