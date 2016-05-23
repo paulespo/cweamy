@@ -7,7 +7,7 @@ html {
 }
 
 @media (max-width: 500px) {
-  html { font-size: 14  px; }
+  html { font-size: 14px; }
   #logo img {width: 250px;}
   .caption {font-size: 6px;}
    #essaycontainer{max-width: 80%;}
@@ -23,7 +23,7 @@ body{
 	}
 
 a:link {color:#000000;}
-a:visited {color:#000000;}
+a:visited {color:#b5aa12;}
 a:hover {color:#D3D3D3;}
 a:active {color:#C2C2C2;}
 
