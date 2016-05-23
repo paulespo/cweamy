@@ -1,13 +1,13 @@
 html {
-  font-size: 13px;
+  font-size: 16px;
 }
 @media (max-width: 900px) {
-  html { font-size: 13px; }
+  html { font-size: 16px; }
   #essaycontainer{max-width: 80%;}
 }
 
 @media (max-width: 500px) {
-  html { font-size: 15px; }
+  html { font-size: 14  px; }
   #logo img {width: 250px;}
   .caption {font-size: 6px;}
    #essaycontainer{max-width: 80%;}
