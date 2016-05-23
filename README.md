@@ -1,4 +1,4 @@
-thirdobject
+cweamy
 ===========
 
-A website for the curatorial group: thirdobject
+A website for cweamy gallery.
