@@ -23,9 +23,9 @@ body{
 	}
 
 a:link {color:#000000;}
-a:visited {color:#b5aa12;}
-a:hover {color:#D3D3D3;}
-a:active {color:#C2C2C2;}
+a:visited {color:#262626;}
+a:hover {color:#cdb79e;}
+a:active {color:#CDB79E;}
 
 a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
