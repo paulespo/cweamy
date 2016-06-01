@@ -54,6 +54,10 @@ img {
   	font-style: italic;
 	}
 
+.log img:last-child{display:none}
+.log:hover img:first-child{display:none}
+.log:hover img:last-child{display:inline-block}
+
 #logo{
 	padding-top: 1.5%;
 	padding-bottom: 1%;
