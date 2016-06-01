@@ -1,4 +1,4 @@
 cweamy
 ===========
 
-A website for cweamy gallery.
+A website for creamy gallery.
