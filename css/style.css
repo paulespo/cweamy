@@ -60,7 +60,7 @@ img {
 .log:hover img:last-child{display:inline-block}
 
 #logo{
-	padding-top: 1.5%;
+	padding-top: 0;
 	padding-bottom: 1%;
   	text-align: center;
 }
