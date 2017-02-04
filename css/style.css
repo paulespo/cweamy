@@ -157,12 +157,15 @@ img {
 	text-align: right;
 	}
 
-#wrapper {
-  float: left;
-  width: 100%;
-  margin-bottom: 4%;
-  }
+  #wrapper {
+    float: left;
+    width: 100%;
+    margin-bottom: 4%;
+    }
 
+    #wrapper img{
+      max-height:700px;
+      }
 h1 {
   font: 600 28px/36px sans-serif;
   margin: 50px 0;
