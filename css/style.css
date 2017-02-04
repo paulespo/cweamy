@@ -165,6 +165,7 @@ img {
 
     #wrapper img{
       max-height:700px;
+      max-width: auto;
       }
 h1 {
   font: 600 28px/36px sans-serif;
