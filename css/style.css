@@ -169,6 +169,10 @@ img {
       max-width: 100%;
       display: block;
       }
+      #wrapper p{
+        max-width: 700px;
+        display: block;
+        }
 h1 {
   font: 600 28px/36px sans-serif;
   margin: 50px 0;
